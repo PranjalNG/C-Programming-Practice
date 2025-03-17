@@ -52,7 +52,20 @@ cd c-programming-practice
 3. Compile and run any C program:
 ```bash
 gcc filename.c -o output
-./output
+./output  # For Unix/Linux
+output.exe  # For Windows
+```
+
+## Running Programs with Additional Flags
+
+For more detailed debugging, use:
+```bash
+gcc -Wall -Wextra -pedantic filename.c -o output
+```
+
+For optimization:
+```bash
+gcc -O2 filename.c -o output
 ```
 
 ## 📝 Contributing
