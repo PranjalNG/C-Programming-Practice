@@ -56,4 +56,10 @@ dkms.conf
 *.code-workspace
 
 # Output directory
-output/ 
+output/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo 
