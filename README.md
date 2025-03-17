@@ -88,5 +88,5 @@ Pranjal Nath Goswami
 ## 🤝 Connect with Me
 
 - GitHub: (https://github.com/PranjalNG)
-- LinkedIn: (https://www.linkedin.com/in/pranjal-nath-goswami-7271162a4)
+- LinkedIn: https://www.linkedin.com/in/pranjal-nath-goswami-a768392a2/
 - Email: pranjalnathgoswami@gmail.com
